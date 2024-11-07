@@ -1,2 +1,2 @@
-# FooltBallPon
+# FooltballPon
 Jogo FooltballPong em Python
